@@ -4,7 +4,7 @@ public class Test1 {
 
 		int tal1;
 		tal1 = 1;
-
+//hjhj
 		int tal2 = 10;
 		double d = 1;
 
